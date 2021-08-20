@@ -6,7 +6,7 @@ theme: 'anubis'
 menu:
     main:
     - identifier: archive
-    name: Archive
-    title: Archive
-    url: /posts/
-    weight: 0
+      name: Archive
+      title: Archive
+      url: /posts/
+      weight: 0
