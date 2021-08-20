@@ -5,11 +5,22 @@ theme: 'anubis'
 
 menu:
     main:
-    - identifier: archive
-      name: Archive
-      title: Archive
+    - identifier: posts
+      name: Posts
+      title: Posts
       url: /posts/
       weight: 0
+    - identifier: photography
+      name: Photography
+      title: Photography
+      url: /photography/
+      weight: 1
+    - identifier: about
+      name: About
+      title: About
+      url: /about/
+      weight: 2
 
 params:
+    author: "Dylan Palmieri"
     style: dark
