@@ -10,3 +10,6 @@ menu:
       title: Archive
       url: /posts/
       weight: 0
+
+params:
+    style: dark
