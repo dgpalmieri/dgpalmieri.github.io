@@ -9,7 +9,7 @@ menu:
       name: Posts
       title: Posts
       url: /posts/
-      weight: 0
+      weight: 2
     - identifier: photography
       name: Photography
       title: Photography
@@ -19,7 +19,7 @@ menu:
       name: About
       title: About
       url: /about/
-      weight: 2
+      weight: 0
 
 params:
     author: "Dylan Palmieri"
