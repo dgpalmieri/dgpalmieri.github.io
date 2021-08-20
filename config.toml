@@ -1,4 +1,12 @@
 baseURL = 'http://dgpalmieri.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "anubis"
+title = 'dylan palmieri'
+theme = 'anubis'
+
+menu:
+    main:
+    - identifier: archive
+    name: Archive
+    title: Archive
+    url: /posts/
+    weight: 0
