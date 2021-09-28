@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 date: 2021-09-28T15:23:47-08:00
-draft: true
+draft: false
 ---
 
 Hi! My name is Dylan, and I'm a Computer Science Master's student at the
