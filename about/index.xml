@@ -1,24 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Abouts on dylan palmieri</title>
-    <link>https://dgpalmieri.github.io/about/</link>
-    <description>dylan palmieri (Abouts)</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 19 Aug 2021 20:18:57 -0800</lastBuildDate>
-    
-    <atom:link href="https://dgpalmieri.github.io/about/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>About_me</title>
-      <link>https://dgpalmieri.github.io/about/about_me/</link>
-      <pubDate>Thu, 19 Aug 2021 20:18:57 -0800</pubDate>
-      
-      <guid>https://dgpalmieri.github.io/about/about_me/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Abouts on dylan palmieri</title><link>https://dgpalmieri.github.io/about/</link><description>dylan palmieri (Abouts)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 28 Sep 2021 15:23:47 -0800</lastBuildDate><atom:link href="https://dgpalmieri.github.io/about/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://dgpalmieri.github.io/about/about_me/</link><pubDate>Tue, 28 Sep 2021 15:23:47 -0800</pubDate><guid>https://dgpalmieri.github.io/about/about_me/</guid><description>&lt;p>Hi! My name is Dylan, and I&amp;rsquo;m a Computer Science Master&amp;rsquo;s student at the
+University of Alaska Fairbanks. I&amp;rsquo;m currently working at the
+&lt;a href="https://acep.uaf.edu/">Alaska Center for Energy and Power&lt;/a> as a Graduate
+Research Assistant, where I perform the duties of a DevOps Engineer.
+In my spare time, I&amp;rsquo;m also the Vice-President of the
+&lt;a href="https://csc.uaf.edu">UAF Cyber Security Club&lt;/a>, where I focus primarily on
+Linux Security and obscure distros. Outside of computer science/security, I
+also enjoy film photography, playing guitar, and PC gaming.&lt;/p></description></item></channel></rss>
