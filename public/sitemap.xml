@@ -2,14 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://dgpalmieri.github.io/posts/in_production/</loc>
+    <loc>https://dgpalmieri.github.io/about/</loc>
+    <lastmod>2021-09-28T16:09:54-08:00</lastmod>
   </url><url>
-    <loc>http://dgpalmieri.github.io/categories/</loc>
+    <loc>https://dgpalmieri.github.io/</loc>
+    <lastmod>2021-09-28T16:09:54-08:00</lastmod>
   </url><url>
-    <loc>http://dgpalmieri.github.io/</loc>
+    <loc>https://dgpalmieri.github.io/about/resume/</loc>
+    <lastmod>2021-09-28T16:09:54-08:00</lastmod>
   </url><url>
-    <loc>http://dgpalmieri.github.io/posts/</loc>
+    <loc>https://dgpalmieri.github.io/about/about_me/</loc>
+    <lastmod>2021-09-28T15:23:47-08:00</lastmod>
   </url><url>
-    <loc>http://dgpalmieri.github.io/tags/</loc>
+    <loc>https://dgpalmieri.github.io/posts/in_production/</loc>
+  </url><url>
+    <loc>https://dgpalmieri.github.io/categories/</loc>
+  </url><url>
+    <loc>https://dgpalmieri.github.io/posts/</loc>
+  </url><url>
+    <loc>https://dgpalmieri.github.io/tags/</loc>
   </url>
 </urlset>

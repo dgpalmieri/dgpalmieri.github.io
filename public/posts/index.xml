@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on dylan palmieri</title>
-    <link>http://dgpalmieri.github.io/posts/</link>
+    <link>https://dgpalmieri.github.io/posts/</link>
     <description>dylan palmieri (Posts)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-    <atom:link href="http://dgpalmieri.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dgpalmieri.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://dgpalmieri.github.io/posts/in_production/</link>
+      <link>https://dgpalmieri.github.io/posts/in_production/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://dgpalmieri.github.io/posts/in_production/</guid>
+      <guid>https://dgpalmieri.github.io/posts/in_production/</guid>
       <description>&lt;h1 id=&#34;hello&#34;&gt;Hello&lt;/h1&gt;
 &lt;p&gt;This site is still very much under production, feel free to make issues at
 &lt;a href=&#34;https://github.com/dgpalmieri/dgpalmieri.github.io/issues!&#34;&gt;https://github.com/dgpalmieri/dgpalmieri.github.io/issues!&lt;/a&gt;&lt;/p&gt;

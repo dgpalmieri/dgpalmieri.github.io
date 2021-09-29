@@ -2,20 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>dylan palmieri</title>
-    <link>http://dgpalmieri.github.io/</link>
+    <link>https://dgpalmieri.github.io/</link>
     <description>dylan palmieri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 28 Sep 2021 16:09:54 -0800</lastBuildDate>
     
-    <atom:link href="http://dgpalmieri.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dgpalmieri.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Resume</title>
+      <link>https://dgpalmieri.github.io/about/resume/</link>
+      <pubDate>Tue, 28 Sep 2021 16:09:54 -0800</pubDate>
+      
+      <guid>https://dgpalmieri.github.io/about/resume/</guid>
+      <description>&lt;p&gt;Here&amp;rsquo;s a copy of my resume, along with a downloadable link!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/11Yyx7fQyArWsxQUkus2TJHAmFx0rjSX5/view?usp=sharing&#34;&gt;Download a pdf of my resume here&lt;/a&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;https://dgpalmieri.github.io/media/resume.ppm&#34;/&gt;
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://dgpalmieri.github.io/about/about_me/</link>
+      <pubDate>Tue, 28 Sep 2021 15:23:47 -0800</pubDate>
+      
+      <guid>https://dgpalmieri.github.io/about/about_me/</guid>
+      <description>&lt;p&gt;Hi! My name is Dylan, and I&amp;rsquo;m a Computer Science Master&amp;rsquo;s student at the
+University of Alaska Fairbanks. I&amp;rsquo;m currently working at the
+&lt;a href=&#34;https://acep.uaf.edu/&#34;&gt;Alaska Center for Energy and Power&lt;/a&gt; as a Graduate
+Research Assistant, where I perform the duties of a DevOps Engineer.
+In my spare time, I&amp;rsquo;m also the Vice-President of the
+&lt;a href=&#34;https://csc.uaf.edu&#34;&gt;UAF Cyber Security Club&lt;/a&gt;, where I focus primarily on
+Linux Security and obscure distros. Outside of computer science/security, I
+also enjoy film photography, playing guitar, and PC gaming.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title></title>
-      <link>http://dgpalmieri.github.io/posts/in_production/</link>
+      <link>https://dgpalmieri.github.io/posts/in_production/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://dgpalmieri.github.io/posts/in_production/</guid>
+      <guid>https://dgpalmieri.github.io/posts/in_production/</guid>
       <description>&lt;h1 id=&#34;hello&#34;&gt;Hello&lt;/h1&gt;
 &lt;p&gt;This site is still very much under production, feel free to make issues at
 &lt;a href=&#34;https://github.com/dgpalmieri/dgpalmieri.github.io/issues!&#34;&gt;https://github.com/dgpalmieri/dgpalmieri.github.io/issues!&lt;/a&gt;&lt;/p&gt;
