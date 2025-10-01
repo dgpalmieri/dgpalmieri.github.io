@@ -1,7 +1,7 @@
 baseURL: 'https://dgpalmieri.github.io/'
 languageCode: 'en-us'
 title: 'dylan palmieri'
-theme: 'anubis'
+theme: 'hugo-coder'
 
 menu:
     main:
@@ -23,4 +23,5 @@ menu:
 
 params:
     author: "Dylan Palmieri"
-    style: dark
+    info: "Software Engineer"
+    since: "2021"
