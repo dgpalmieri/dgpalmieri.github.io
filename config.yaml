@@ -25,3 +25,10 @@ params:
     author: "Dylan Palmieri"
     info: "Software Engineer"
     since: "2021"
+    colorScheme: "auto"
+    hidecolorschemetoggle: False
+    social:
+      name: "Github"
+      icon: "fa-brands fa-github fa-2x"
+      weight: 1
+      url: "https://github.com/dgpalmieri/"
