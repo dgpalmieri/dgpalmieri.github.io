@@ -30,5 +30,4 @@ params:
     social:
       name: "Github"
       icon: "fa-brands fa-github fa-2x"
-      weight: 1
       url: "https://github.com/dgpalmieri/"
